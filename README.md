@@ -19,5 +19,7 @@
 
 
 ## 📊 GitHub Stats
-![KhanhHy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhhy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhhy&layout=compact&theme=radical)
+
+![KhanhHy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhhy26102002&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhhy26102002&layout=compact&theme=radical)
+
