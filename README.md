@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **React Native & Next.js projects**
 - 💬 Ask me about **Frontend, Mobile Dev, Git, API integration**
 - 📫 Reach me at: [ledangkhanhhy@gmail.com](mailto:ledangkhanhhy@gmail.com)
-- ⚡ Fun fact: I love coffee ☕ and exploring new tech and I explore my favourite car!
+- ⚡ Fun fact: I love coffee ☕ and exploring new tech!
 
 ---
 
