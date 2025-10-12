@@ -1,4 +1,4 @@
-# Hi, I'm Khanh Hy 👋
+# Hi, I'm Lê Đặng Khánh Hỷ 👋
 
 ## About Me
 - 🔭 I’m currently working on **React Native & Next.js projects**
