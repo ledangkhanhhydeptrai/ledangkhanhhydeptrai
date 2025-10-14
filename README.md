@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![KhanhHy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhhy26102002&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhhy26102002&layout=compact&theme=radical&exclude_repo=club-student-reactjs,old-js-repo)
+![KhanhHy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=radical&exclude_repo=club-student-reactjs,old-js-repo)
 
 
