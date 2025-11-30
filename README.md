@@ -15,18 +15,8 @@
 
 ---
 
-## GitHub Stats
-
-- [My GitHub Profile](https://github.com/ledangkhanhydeptrai)
-
-### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=default)
-
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=default)
-
-
----
 
 ## Currently Learning
 - Advanced **React Query** & **Redux-Saga** patterns
