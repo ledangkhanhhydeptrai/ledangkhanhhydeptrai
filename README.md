@@ -94,8 +94,6 @@ const learningPath = [
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ledangkhanhydeptrai&color=blueviolet&style=for-the-badge)
-
 ### ⭐ Thanks for visiting! Don't forget to star some repositories if you find them useful!
 
 </div>
