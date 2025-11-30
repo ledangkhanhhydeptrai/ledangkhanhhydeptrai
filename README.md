@@ -1,9 +1,9 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm Lê Đặng Khánh Hỷ
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=600&lines=%3CFull-Stack+Developer+%2F%3E;%F0%9F%93%B1+Mobile+Developer;%F0%9F%8C%90+Web+Developer;%E2%9A%A1+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;%F0%9F%93%B1+Mobile+Developer;%F0%9F%8C%90+Web+Developer;%E2%9A%A1+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -80,7 +80,7 @@ const learningPath = [
 
 ## 📫 Let's Connect!
 
-<div align="left">
+<div align="center">
 
 💼 Open for collaboration on interesting projects  
 📧 Reach me at: **ledangkhanhhy@gmail.com**  
@@ -92,7 +92,7 @@ const learningPath = [
 
 ---
 
-<div align="left">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ledangkhanhydeptrai&color=blueviolet&style=for-the-badge)
 
