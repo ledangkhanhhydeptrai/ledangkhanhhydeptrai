@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Lê Đặng Khánh Hỷ
 
@@ -80,7 +80,7 @@ const learningPath = [
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 💼 Open for collaboration on interesting projects  
 📧 Reach me at: **ledangkhanhhy@gmail.com**  
@@ -92,7 +92,7 @@ const learningPath = [
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ledangkhanhydeptrai&color=blueviolet&style=for-the-badge)
 
