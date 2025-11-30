@@ -15,6 +15,11 @@
 
 ---
 
+## 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=tokyonight)
+
+---
+
 ## 📚 Currently Learning
 - Advanced **React Query** & **Redux-Saga** patterns  
 - Building **React Native apps** with TypeScript  
@@ -22,5 +27,5 @@
 
 ---
 
-## 🌟 Connect with me
-- [GitHub](https://github.com/ledangkhanhydeptrai)
+## 📌 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhydeptrai)
