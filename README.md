@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm Lê Đặng Khánh Hỷ
 
@@ -55,20 +55,6 @@ const khanhHy = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ledangkhanhydeptrai&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
