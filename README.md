@@ -1,8 +1,12 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm Lê Đặng Khánh Hỷ
 
-### 🚀 Full-Stack Developer | Mobile & Web Enthusiast
+### `<Full-Stack Developer />` | 📱 Mobile & Web Enthusiast | ⚡ Tech Innovator
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Frontend+%7C+Backend+%7C+Mobile+Development;React+%E2%9A%9B%EF%B8%8F+Next.js+%E2%96%B2+React+Native+%F0%9F%93%B1;Building+Amazing+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhydeptrai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledangkhanhhy@gmail.com)
@@ -74,7 +78,7 @@ const learningPath = [
 
 ## 📫 Let's Connect!
 
-<div align="left">
+<div align="center">
 
 💼 Open for collaboration on interesting projects  
 📧 Reach me at: **ledangkhanhhy@gmail.com**  
@@ -86,7 +90,7 @@ const learningPath = [
 
 ---
 
-<div align="left">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ledangkhanhydeptrai&color=blueviolet&style=for-the-badge)
 
