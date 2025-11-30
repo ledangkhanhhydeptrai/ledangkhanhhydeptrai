@@ -17,13 +17,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-![KhanhHy's GitHub stats](https://github-readme-stats-yourname.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=radical)
+![ledangkhanhhydeptrai's GitHub stats](https://github-readme-stats-yourname.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=radical&exclude_repo=club-student-reactjs,old-js-repo)
-
----
 
 ## 🌟 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=React-Product&theme=radical)](https://github.com/ledangkhanhhydeptrai/React-Product)
