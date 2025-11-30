@@ -16,9 +16,14 @@
 ---
 
 ## GitHub Stats
+
 - [My GitHub Profile](https://github.com/ledangkhanhydeptrai)
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=default)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=default)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=default)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=default)
 
 
 ---
