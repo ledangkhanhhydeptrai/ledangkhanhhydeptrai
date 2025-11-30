@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Lê Đặng Khánh Hỷ
 
@@ -69,18 +69,6 @@ const learningPath = [
     "🏗️ System Design & Architecture patterns"
 ];
 ```
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhydeptrai&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/ledangkhanhydeptrai/REPO_NAME)
-
-<!-- Thay REPO_NAME bằng tên repository thực tế của bạn -->
-
-</div>
 
 ---
 
