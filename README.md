@@ -15,8 +15,16 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=default)
+## GitHub Stats
+- [My GitHub Profile](https://github.com/ledangkhanhydeptrai)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=default&access_token=YOUR_TOKEN_HERE)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhydeptrai&show_icons=true&theme=default&access_token=YOUR_TOKEN_HERE)
+
+---
 
 ## Currently Learning
 - Advanced **React Query** & **Redux-Saga** patterns
