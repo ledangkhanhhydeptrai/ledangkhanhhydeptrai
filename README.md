@@ -37,6 +37,8 @@ const khanhHy = {
 
 ## 🛠️ Tech Stack
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=tokyonight&hide_border=true)
+
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -93,6 +95,8 @@ const learningPath = [
 ---
 
 <div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ledangkhanhydeptrai&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting! Don't forget to star some repositories if you find them useful!
 
