@@ -17,10 +17,23 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
 ![KhanhHy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=radical&exclude_repo=club-student-reactjs,old-js-repo,React-Product)
 
+---
+
+## 🌱 Currently Learning
+- 🚀 Advanced **React Query & Redux-Saga patterns**
+- 📱 Building **React Native apps with TypeScript**
+- ☁️ Exploring **Next.js 14 App Router & Tailwind v4**
+
+---
+
+## 📫 Contact Me
+- Email: [ledangkhanhhy@gmail.com](mailto:ledangkhanhhy@gmail.com)
+- GitHub: [https://github.com/ledangkhanhhydeptrai](https://github.com/ledangkhanhhydeptrai)
