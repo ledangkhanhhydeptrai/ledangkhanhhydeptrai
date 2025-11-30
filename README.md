@@ -27,6 +27,18 @@
 
 ---
 
+## 🌟 Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=React-Product&theme=radical)](https://github.com/ledangkhanhhydeptrai/React-Product)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=another-repo&theme=radical)](https://github.com/ledangkhanhhydeptrai/another-repo)
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ledangkhanhhydeptrai&theme=radical)
+
+---
+
 ## 🌱 Currently Learning
 - 🚀 Advanced **React Query & Redux-Saga patterns**
 - 📱 Building **React Native apps with TypeScript**
