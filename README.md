@@ -33,12 +33,6 @@ const khanhHy = {
 - 🌱 Always learning and exploring new technologies
 - ⚡ Fun fact: **Code + Coffee = Productive Day**
 
----
-
-## 🛠️ Tech Stack
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&theme=tokyonight&hide_border=true)
-
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
