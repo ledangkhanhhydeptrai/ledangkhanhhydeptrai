@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=false&width=600&lines=React+%E2%9A%9B%EF%B8%8F+Next.js+%E2%96%B2+React+Native+%F0%9F%93%B1;TypeScript+%7C+JavaScript+%7C+Node.js;Building+Amazing+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+https://camo.githubusercontent.com/617486067e31630299fd2973aa08fb6dafddc374b1cd295e12aab55c50585fb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68656e72792d6e6468266c61796f75743d636f6d70616374266c616e67735f636f756e743d36
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhydeptrai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledangkhanhhy@gmail.com)
 
