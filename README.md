@@ -39,7 +39,7 @@ const khanhHy = {
 ## 🎓 Education
 
 * **Bachelor’s Degree in Information Technology (Good classification)**
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhydeptrai&layout=compact&langs_count=6)
 ---
 
 ## 🛠️ Tech Stack
