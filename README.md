@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=51&descAlign=50"/>
