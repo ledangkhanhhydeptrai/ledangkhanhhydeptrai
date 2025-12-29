@@ -58,7 +58,7 @@ const khanhy: Developer = {
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,git,github,docker,vscode,figma" alt="Database & Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,git,github,vscode" alt="Database & Tools"/>
 </p>
 
 ---
