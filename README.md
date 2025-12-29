@@ -1,167 +1,249 @@
+<!-- Cyberpunk/Neon Theme Profile -->
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=KHÁNH%20HỶ&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=667eea&strokeWidth=2&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20・%20Code%20Architect%20・%20Problem%20Solver&descSize=20&descAlignY=60)
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=51&descAlign=50"/>
+## ⚡ SYSTEM STATUS
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DEFE9&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Frontend+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Scalable+Applications+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=System%3A+ONLINE+%E2%9C%85;Status%3A+CODING+%F0%9F%92%BB;Mode%3A+FULL-STACK)](https://git.io/typing-svg)
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ledangkhanhhydeptrai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ledangkhanhhydeptrai?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
+![](https://komarev.com/ghpvc/?username=ledangkhanhhydeptrai&color=blueviolet&style=flat-square&label=VISITORS)
+![](https://img.shields.io/github/followers/ledangkhanhhydeptrai?style=flat-square&color=blueviolet&labelColor=1a1b27&label=FOLLOWERS)
+![](https://img.shields.io/github/stars/ledangkhanhhydeptrai?style=flat-square&color=blueviolet&labelColor=1a1b27&label=STARS)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```typescript
-const khanhy: Developer = {
-  location: "🇻🇳 Vietnam",
-  role: "Full-Stack Developer",
-  focus: ["Frontend Development", "System Architecture", "Clean Code"],
-  currentlyLearning: ["Next.js 15", "Advanced TypeScript", "Microservices"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-  lifePhilosophy: "Clean code is not written by following a set of rules, but by caring.",
+### 👨‍💻 DEVELOPER INFO
+
+```json
+{
+  "name": "Lê Đặng Khánh Hỷ",
+  "role": "Full-Stack Developer",
+  "location": "Vietnam 🇻🇳",
+  "experience": "Frontend-Focused",
+  "status": "Available for opportunities",
   
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Java", "Spring Boot", "REST API"],
-    database: ["MySQL", "Redis"],
-    tools: ["Git", "Postman", "Docker", "VS Code"]
+  "expertise": {
+    "frontend": ["React ⚛️", "Next.js ▲", "TypeScript 💙"],
+    "backend": ["Java ☕", "Spring Boot 🍃"],
+    "styling": ["TailwindCSS 🎨", "Responsive Design 📱"],
+    "database": ["MySQL 🐬", "Redis ⚡"]
   },
   
-  currentProjects: [
-    "🛒 E-commerce Platform",
-    "🔐 Authentication System",
-    "📱 Portfolio Website"
+  "passion": [
+    "Clean Architecture 🏗️",
+    "Performance Optimization ⚡",
+    "User Experience 🎯",
+    "Problem Solving 🧩"
   ]
-};
+}
 ```
 
+### 🎯 CURRENT MISSION
+
+```diff
++ Building E-commerce Platform
++ Implementing JWT Authentication
++ Mastering System Design
++ Contributing to Open Source
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 STATS DASHBOARD
+
+<img src="https://github-readme-stats.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=ffffff&border_radius=10" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=ledangkhanhhydeptrai&theme=radical&hide_border=true&background=1a1b27&ring=667eea&fire=f093fb&currStreakLabel=667eea&border_radius=10" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=ffffff&border_radius=10&langs_count=6&hide=html,css" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite" alt="Frontend Skills"/>
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postman" alt="Backend Skills"/>
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,git,github,vscode" alt="Database & Tools"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
+### 🛠️ TECH ARSENAL
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=ledangkhanhhydeptrai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=8" alt="GitHub Streak"/>
+
+#### ⚔️ FRONTEND WEAPONS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛡️ BACKEND FORTRESS
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 💾 DATABASE VAULT
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🔧 DEV TOOLS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
+
+---
+
+### 🚀 PROJECT SHOWCASE
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8&hide=html,css&exclude_repo=repo1,repo2" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&radius=8" alt="Activity Graph"/>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛒 E-COMMERCE PLATFORM
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=ecommerce-project&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=ffffff&border_radius=10)](https://github.com/ledangkhanhhydeptrai/ecommerce-project)
+
+**Stack:** Next.js • Spring Boot • MySQL  
+**Features:** Authentication • Cart • Payment • Admin Dashboard
+
+</td>
+<td width="50%">
+
+#### 🔐 AUTH SYSTEM
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=auth-system&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=ffffff&border_radius=10)](https://github.com/ledangkhanhhydeptrai/auth-system)
+
+**Stack:** React • JWT • Spring Security  
+**Features:** Role-Based Access • OAuth • 2FA
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 ACTIVITY METRICS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ledangkhanhhydeptrai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<div align="center">
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&custom_title=Contribution%20Activity&bg_color=1a1b27&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&area_color=667eea)
 
-## 🔥 Featured Projects
-
-<a href="https://github.com/ledangkhanhhydeptrai/ecommerce-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=ecommerce-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
-</a>
-
-<a href="https://github.com/ledangkhanhhydeptrai/auth-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
-</a>
-
-*⭐ Note: Replace with your actual repository names above*
+</div>
 
 ---
 
-## 💼 What I'm Currently Working On
+### 🏆 ACHIEVEMENTS
 
-### 🛒 E-commerce Platform
-**Tech Stack:** Next.js + Spring Boot  
-**Features:** 🔐 JWT Auth | 🛒 Cart System | 💳 Payment Integration
+<div align="center">
 
-### 🔑 Auth System  
-**Tech Stack:** Role-Based Access Control  
-**Features:** 🔑 JWT | 🛡️ Security | 👥 User Management
+![Trophy](https://github-profile-trophy.vercel.app/?username=ledangkhanhhydeptrai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
-### 🎨 Portfolio Website
-**Tech Stack:** React + TypeScript  
-**Features:** 🎨 Modern UI | ⚡ Performance | 📱 Responsive
+</div>
 
 ---
 
-## 📈 Contribution Graph
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+### 💼 WORK IN PROGRESS
+
+```yaml
+projects:
+  - name: "E-commerce Platform"
+    status: "🟢 Active Development"
+    progress: 75%
+    tech: [Next.js, Spring Boot, MySQL]
+    
+  - name: "Authentication System"
+    status: "🟢 Active Development"
+    progress: 60%
+    tech: [React, JWT, Spring Security]
+    
+  - name: "Portfolio Website"
+    status: "🟡 Planning Phase"
+    progress: 30%
+    tech: [Next.js, TailwindCSS, Framer Motion]
+```
+
+</td>
+<td width="50%">
+
+### 🎯 2025 ROADMAP
+
+- [x] ✅ Master React & Next.js fundamentals
+- [x] ✅ Build production-ready REST APIs
+- [ ] 🎯 Deploy 3 full-stack projects
+- [ ] 🎯 Contribute to 5 open-source repos
+- [ ] 🎯 Learn microservices architecture
+- [ ] 🎯 Master Docker & Kubernetes
+- [ ] 🎯 Achieve 1000+ GitHub contributions
+- [ ] 🎯 Land senior developer position
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 My Goals for 2025
+### 🌐 CONNECT WITH ME
 
-- ✅ Master **Next.js 15** and **React Server Components**
-- 🎯 Build **3 production-ready** full-stack applications
-- 📚 Deep dive into **System Design** and **Architecture Patterns**
-- 🤝 Contribute to **open-source** projects
-- 🏆 Reach **1000** GitHub contributions
-- 💼 Land a **senior developer** position
+<div align="center">
 
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhhydeptrai)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhhydeptrai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
----
-
-## 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ledangkhanhhydeptrai/ledangkhanhhydeptrai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-*⚠️ To enable the snake animation, you need to set up GitHub Actions. See instructions in the original message.*
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 DEV WISDOM
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
-**⭐ Thanks for visiting! Let's build something amazing together! 🚀**
+### 📊 CODING TIME
 
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🐍 CONTRIBUTION SNAKE
+
+![Snake animation](https://raw.githubusercontent.com/ledangkhanhhydeptrai/ledangkhanhhydeptrai/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer"/>
+
+### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
+
+**Made with 💜 and ☕ by Khánh Hỷ**
+
+![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 
 </div>
