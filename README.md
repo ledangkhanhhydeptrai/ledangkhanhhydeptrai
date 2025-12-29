@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=51&descAlign=50"/>
@@ -46,8 +46,6 @@ const khanhy: Developer = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 ### 🎨 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite" alt="Frontend Skills"/>
@@ -62,8 +60,6 @@ const khanhy: Developer = {
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,git,github,docker,vscode,figma" alt="Database & Tools"/>
 </p>
-
-</div>
 
 ---
 
@@ -83,64 +79,43 @@ const khanhy: Developer = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ledangkhanhhydeptrai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=ledangkhanhhydeptrai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 ---
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
 <a href="https://github.com/ledangkhanhhydeptrai/ecommerce-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=ecommerce-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=ecommerce-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
 </a>
 
 <a href="https://github.com/ledangkhanhhydeptrai/auth-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=auth-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
 </a>
 
-</div>
-
-<div align="center">
-  <i>⭐ Note: Replace with your actual repository names above</i>
-</div>
+*⭐ Note: Replace with your actual repository names above*
 
 ---
 
 ## 💼 What I'm Currently Working On
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/shopify.png" width="60"/>
-      <br><b>E-commerce Platform</b>
-      <br><i>Next.js + Spring Boot</i>
-      <br>🔐 JWT Auth | 🛒 Cart System | 💳 Payment Integration
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/lock.png" width="60"/>
-      <br><b>Auth System</b>
-      <br><i>Role-Based Access Control</i>
-      <br>🔑 JWT | 🛡️ Security | 👥 User Management
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="60"/>
-      <br><b>Portfolio Website</b>
-      <br><i>React + TypeScript</i>
-      <br>🎨 Modern UI | ⚡ Performance | 📱 Responsive
-    </td>
-  </tr>
-</table>
+### 🛒 E-commerce Platform
+**Tech Stack:** Next.js + Spring Boot  
+**Features:** 🔐 JWT Auth | 🛒 Cart System | 💳 Payment Integration
+
+### 🔑 Auth System  
+**Tech Stack:** Role-Based Access Control  
+**Features:** 🔑 JWT | 🛡️ Security | 👥 User Management
+
+### 🎨 Portfolio Website
+**Tech Stack:** React + TypeScript  
+**Features:** 🎨 Modern UI | ⚡ Performance | 📱 Responsive
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 ---
 
@@ -157,35 +132,25 @@ const khanhy: Developer = {
 
 ## 📫 Connect With Me
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhhydeptrai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ledangkhanhhydeptrai/ledangkhanhhydeptrai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/ledangkhanhhydeptrai/ledangkhanhhydeptrai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<div align="center">
-  <i>⚠️ To enable the snake animation, you need to set up GitHub Actions. See instructions below.</i>
-</div>
+*⚠️ To enable the snake animation, you need to set up GitHub Actions. See instructions in the original message.*
 
 ---
 
