@@ -40,7 +40,7 @@ const khanhHy = {
 
 * **Bachelor’s Degree in Information Technology (Fair–Good classification)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&langs_count=6&hide=HTML,CSS,Java)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&langs_count=6&hide=html,css,java&size_weight=0.3&count_weight=0.7&cache_seconds=1800)]()
 
 ---
 
