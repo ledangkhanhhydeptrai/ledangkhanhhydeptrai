@@ -29,7 +29,7 @@ const developer = {
     "📱 Modern Portfolio Website with React",
   ],
   
-  learning: ["Next.js 15", "System Design", "Microservices Architecture", "Docker & Kubernetes"],
+  learning: ["Next.js 16", "System Design", "Microservices Architecture", "Docker & Kubernetes"],
   
   techStack: {
     frontend: ["React", "Next.js", "TypeScript", "JavaScript", "TailwindCSS", "Redux"],
@@ -39,7 +39,7 @@ const developer = {
   },
   
   interests: ["Clean Code", "Performance Optimization", "UX/UI Design", "System Architecture"],
-  contact: "your-email@example.com"
+  contact: "ledangkhanhhy@gmail.com"
 };
 ```
 
@@ -68,7 +68,6 @@ const developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
