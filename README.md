@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lê%20Đặng%20Khánh%20Hỷ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Vietnam%20🇻🇳&descSize=16&descAlignY=51" width="100%"/>
 </div>
 
-<div align="center">
+<div align="left">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Specialist+%F0%9F%8E%A8;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Beautiful+Web+Apps+%F0%9F%9A%80)
   
@@ -43,7 +43,7 @@ const khanhhuy = {
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="50%">
 
@@ -70,7 +70,7 @@ const khanhhuy = {
 </tr>
 </table>
 
-<div align="center">
+<div align="left">
 
 **DevOps & Tools** 🧰
 
@@ -84,19 +84,19 @@ const khanhhuy = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ledangkhanhhydeptrai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledangkhanhhydeptrai&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&langs_count=6"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ledangkhanhhydeptrai&theme=react&hide_border=true&background=0D1117&ring=3b82f6&fire=f97316&currStreakLabel=3b82f6" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ledangkhanhhydeptrai&custom_title=Contribution%20Activity&bg_color=0D1117&color=3b82f6&line=8b5cf6&point=c9d1d9&area=true&hide_border=true" width="98%"/>
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -151,7 +151,7 @@ const khanhhuy = {
 ### 📱 More Projects
 **Explore my other work**
 
-<div align="center">
+<div align="left">
 <br/><br/>
 
 [**View All Repositories →**](https://github.com/ledangkhanhhydeptrai?tab=repositories)
@@ -170,7 +170,7 @@ const khanhhuy = {
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledangkhanhhy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ledangkhanhhydeptrai)
@@ -184,11 +184,11 @@ const khanhhuy = {
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson" alt="Quote"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
   **⭐ Thanks for visiting! Feel free to star my repos if you find them interesting!**
