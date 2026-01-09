@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
-const khanhhuy = {
+const khanhhy = {
   name: "Lê Đặng Khánh Hỷ",
   location: "Ho Chi Minh City 🇻🇳",
   role: "Full-Stack Developer",
