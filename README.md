@@ -148,21 +148,6 @@ const developer = {
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 </div>
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ledangkhanhhydeptrai/ecommerce-project">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=ecommerce-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ledangkhanhhydeptrai/portfolio">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ledangkhanhhydeptrai&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
-</a>
-
-</div>
 
 <br/>
 
