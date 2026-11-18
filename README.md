@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Next.js+%7C+NestJS+%7C+Spring+Boot+%E2%9A%A1;Building+things+that+actually+ship+%F0%9F%93%A6;Coffee-fueled+%E2%80%A2+Clean+Code+%E2%80%A2+Good+Vibes+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Next.js+%7C+NestJS+%7C+Spring+Boot+%7C+Go+%E2%9A%A1;Building+things+that+actually+ship+%F0%9F%93%A6;Coffee-fueled+%E2%80%A2+Clean+Code+%E2%80%A2+Good+Vibes+%E2%98%95" />
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@ const khanhy = {
 
   stack: {
     frontend : ["Next.js", "React", "AngularJS", "TypeScript", "TailwindCSS"],
-    backend  : ["Java / Spring Boot", "NestJS", "Python", "ASP.NET"],
+    backend  : ["Java / Spring Boot", "NestJS", "Golang", "Python", "ASP.NET"],
     data     : ["MySQL", "PostgreSQL"],
     devops   : ["Docker", "Git"],
   },
@@ -84,12 +84,13 @@ const khanhy = {
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,python,dotnet&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,go,python,dotnet&perline=10&theme=dark" />
 </p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
